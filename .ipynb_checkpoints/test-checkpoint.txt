@@ -1,3 +1,0 @@
-Hola!!
-Este es un archivo de prueba para leer desde Python, al finalizar esta linea, se considera que es la lina numero 1
-Ahora si comienza la linea numero 2

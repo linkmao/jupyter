@@ -1,4 +1,0 @@
-Hola mundo esta es mi primera y unica linea en este archivoEsto sigue en la misma linea es decir unnuevo write no hace salto de linea
-
-Finalmente este si es un salto de linea y finalizo el archivo 
-Programado por Maolink Software
